@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Logs
+*.log
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Processed images folder (don't include sample images in repo)
+Processed_images_with_captions/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo

@@ -1,0 +1,3 @@
+@echo off
+echo Starting LlamaScribe...
+start "" "LlamaScribe.exe"
